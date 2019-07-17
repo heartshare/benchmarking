@@ -1,0 +1,25 @@
+benchmark;server;iops
+random r/w: read;digitalocean;39199
+random r/w: read;vliz hdd;693
+random r/w: read;vliz ssd;24419
+random r/w: read;mac mini;24021
+random r/w: write;digitalocean;13072
+random r/w: write;vliz hdd;231
+random r/w: write;vliz ssd;8143
+random r/w: write;mac mini;8027
+random read;digitalocean;120153
+random read;vliz hdd;1100
+random read;vliz ssd;60804
+random read;mac mini;83229
+random write;digitalocean;15607
+random write;vliz hdd;750
+random write;vliz ssd;19803
+random write;mac mini;20750
+random r/w: read;santander;3138
+random r/w: write;santander;1046
+random read;santander;6105
+random write;santander;6180
+random r/w: read;vultr;41822
+random r/w: write;vultr;13946
+random read;vultr;53583
+random write;vultr;58935
